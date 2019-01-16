@@ -1,5 +1,5 @@
 # yii-tutorials-es
-Tutoriales de Yii en Español
+Video Tutoriales de Yii en Español
 
 ## Temario
 * -- Temas Generales --
