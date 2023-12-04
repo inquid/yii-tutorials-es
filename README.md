@@ -1,3 +1,7 @@
+# DEPRECATION NOTE
+He dejado de utilizar Yii como mi framework principal debido a las opciones en el mercado y la gran cantidad de potencial me he cambiado a Laravel por lo que estos videos nunca se llevaron acabo.
+Yii we'll miss you.
+
 # yii-tutorials-es
 Video Tutoriales de Yii en Español
 
